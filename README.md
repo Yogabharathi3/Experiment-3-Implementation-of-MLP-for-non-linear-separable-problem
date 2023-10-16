@@ -119,6 +119,16 @@ test=np.array([[1],[1]])
 predict(w1,w2,test)
 ```
 
- **OUTPUT** 
+ 
+## OUTPUT:
 
-** RESULT**
+## Plt.plot(losses) :
+
+![expt 4 1](https://github.com/22008686/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/118916413/cfb61452-095c-4c70-93ac-8686b296f784)
+
+## Input and corresponding output of XOR Gate :
+
+![expt 4 2](https://github.com/22008686/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/118916413/82c81597-507c-4cfb-b836-87457171e6e2)
+
+## RESULT:
+Thus, a program involving python to implement a perceptron for Implementation of MLP for non linearly separable problem is developed and executted successfully.
